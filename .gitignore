@@ -25,6 +25,10 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+Causation_Analysis/
+EDA/
+Predictions/
+Creating Estimator Classes/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
